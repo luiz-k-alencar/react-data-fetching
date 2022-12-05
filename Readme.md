@@ -29,5 +29,6 @@ Use **yarn** or **npm install** to install project dependencies.
 Then start the project.
 
 ```cl
-yarn dev
+npm install
+npm run dev
 ```
